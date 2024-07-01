@@ -1,0 +1,1 @@
+Webscarpping done in https://medicalis.ma/ website   to extract details of the doctors for the Moroco Roche team
